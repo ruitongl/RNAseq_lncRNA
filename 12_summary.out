@@ -1,0 +1,11 @@
+264832 total transcripts
+252721 transcripts are annotative
+12111 transcripts (4.5700 % of total) do not match a reference
+214 transcripts (1.7600 % of total novel) do not overlap with annotated transcripts
+
+67494 total genes
+6269 novel genes (9.2800 % of total genes)
+205 intergenics (3.2700 % of total novel genes)
+
+111011 transcripts (41.9100 % of total) have correct annotated 5' ends
+93746 transcripts (35.3900 % of total) have correct annotated 3' ends
